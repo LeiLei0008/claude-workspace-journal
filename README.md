@@ -1,2 +1,20 @@
-# claude-workspace-journal
-AI-powered workspace journal — project tracking, daily logs, and knowledge base. Maintained by Claude + Lawrence.
+# Claude Workspace Journal
+
+AI 协作工作日志 — 事项追踪、进度记录、知识沉淀
+
+由 Claude（Anthropic）与 Lawrence 协作维护。
+
+## 目录结构
+- `journal/` — 按日期的工作日志
+- `projects/` — 按项目的进度追踪
+- `knowledge/` — 沉淀的知识和经验
+- `assets/` — 产出物存档
+
+## 当前活跃项目
+| 项目 | 状态 | 最后更新 |
+|------|------|----------|
+| Bitunix Project Entropy | 🟡 Demo 完成，待评审 | 2026-03-27 |
+| 唐三两小红书运营 | 🟢 执行中 | 2026-03-27 |
+| 副业变现三线计划 | 🟡 方案就绪，待启动 | 2026-03-27 |
+| 飞书接入 | 🔵 调研完成 | 2026-03-27 |
+| 加密每日早报 | 🟢 自动运行中 | 2026-03-27 |
